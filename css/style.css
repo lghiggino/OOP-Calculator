@@ -60,6 +60,10 @@ main{
   grid-template-columns: 1fr 1fr ;
 }
 
+.number{
+  min-width: 26px;
+  min-height: 26px;
+}
 
 h1{
   color:#248888; 
